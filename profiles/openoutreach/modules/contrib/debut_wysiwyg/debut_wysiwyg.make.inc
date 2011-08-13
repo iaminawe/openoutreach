@@ -1,7 +1,7 @@
-
 ; Drupal version
-core = 7.x
 api = 2
+core = 7.x
+
 
 ; Contrib modules
 projects[advanced_help][subdir] = contrib
